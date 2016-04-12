@@ -18,5 +18,5 @@ This module can be used for replicating a folder structure including the files w
 
 It supports:
 
-1. Copying only directory structues
+1. Copying only directory structures
 2. Copying directory structures with files, including some file metadata.
