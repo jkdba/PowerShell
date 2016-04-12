@@ -3,7 +3,9 @@
 These are Modules I have created over time. If you would like to contribute please feel free to Fork. If you have any issues please reach out.
 
 ## Clipboard-1
-This Module allows for basic malnipulation of the windows clipboard. It supports:
+This Module allows for basic malnipulation of the windows clipboard. 
+
+It supports:
 
 1. Setting  the clipboard text
 2. Getting the clipboard text
