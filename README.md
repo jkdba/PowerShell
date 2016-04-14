@@ -2,6 +2,15 @@
 
 These are Modules I have created over time. If you would like to contribute please feel free to Fork. If you have any issues please reach out.
 
+## Contributing to PowerKeePass
+1. Only fork the dev branch. 
+2. Pull requests to master will not be considered.
+3. Include comments on your code.
+4. Keep comments up to date.
+5. Create issues for any code corrections on the dev branch, fork then pull.
+6. Use [Allman Style](https://en.wikipedia.org/wiki/Indent_style#Allman_style) indentation or very similar for code style.
+7. Ask questions.
+
 ## Clipboard-1
 This Module allows for basic malnipulation of the windows clipboard. 
 
