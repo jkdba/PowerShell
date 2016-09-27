@@ -1,3 +1,4 @@
 CopyStructure-1/CopyStruc.ps1
 DnsLookup-1/DnsLookup-1.psm1
 TrackPackage-1/.vscode/launch.json
+ServerStateMonitor/.vscode/launch.json
